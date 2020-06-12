@@ -94,7 +94,7 @@ with st.echo():
 
 st.info('The map is fueled by [mapbox](https://mapbox.com).')
 
-st.header('Add interactivity with Widgets')
+st.header('Add Interactivity with Widgets')
 
 st.subheader('Use checkboxes to show/hide data')
 
@@ -209,7 +209,7 @@ with st.echo():
 
         st.success('...and now we\'re done!')
 
-st.header("Record a screencast")
+st.header("Record a Screencast")
 
 st.write('To start a screencast, locate the menu in the upper right hand \
           corner of your app, select **Record a screencast**, and follow the \
