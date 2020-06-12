@@ -189,7 +189,7 @@ st.warning("I have difficulty in showing `'You selected: ', option2` in the \
 st.header("Show Progress")
 
 st.write('When adding long running computations to an app, \
-          you can use `st.progress()`` to display status in real time.')
+          you can use `st.progress()` to display status in real time.')
 
 st.write('First, `import time`, then create a progress bar:')
 
