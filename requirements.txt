@@ -4,7 +4,7 @@ astor==0.8.1
 attrs==19.3.0
 backcall==0.2.0
 base58==2.0.1
-bleach==3.1.5
+bleach==3.3.0
 blinker==1.4
 boto3==1.14.1
 botocore==1.17.1
@@ -20,11 +20,11 @@ enum-compat==0.0.3
 idna==2.9
 importlib-metadata==1.6.1
 ipykernel==5.3.0
-ipython==7.15.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 jedi==0.17.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 jmespath==0.10.0
 jsonschema==3.2.0
 jupyter-client==6.1.3
@@ -33,7 +33,7 @@ MarkupSafe==1.1.1
 mistune==0.8.4
 nbconvert==5.6.1
 nbformat==5.0.7
-notebook==6.0.3
+notebook==6.4.12
 numpy==1.22.0
 packaging==20.4
 pandas==1.0.4
@@ -48,7 +48,7 @@ prompt-toolkit==3.0.5
 protobuf==3.12.2
 ptyprocess==0.6.0
 pydeck==0.4.0b2
-Pygments==2.6.1
+Pygments==2.7.4
 pyparsing==2.4.7
 pyrsistent==0.16.0
 python-dateutil==2.8.1
@@ -66,7 +66,7 @@ toolz==0.10.0
 tornado==5.1.1
 traitlets==4.3.3
 tzlocal==2.1
-urllib3==1.25.9
+urllib3==1.26.5
 validators==0.15.0
 watchdog==0.10.2
 wcwidth==0.2.4
